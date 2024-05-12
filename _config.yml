@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Main Site"
 title_separator          : "-"
-name                     : &name "Dehong Fang"
-description              : &description "Personal Website"
-url                      : https://Yulan-Fang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Kun Qian"
+description              : &description "Website"
+url                      : https://Kun425.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Yulan-Fang/Yulan-Fang.github.io"
+repository               : "Kun425/Kun425.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dehong Fang"
-  avatar           : "profile.png"
-  bio              : "Focused on multi-physics computational research."
-  location         : "Centerville, TN"
+  name             : "Kun Qian"
+  avatar           : #"profile.png"
+  bio              : #"Focused on multi-physics computational research."
+  location         : #"Centerville, TN"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=z1YTxOgAAAAJ&hl=en"
+  googlescholar    : #"https://scholar.google.com/citations?user=z1YTxOgAAAAJ&hl=en"
   email            :
-  researchgate     : "https://www.researchgate.net/profile/D-Fang"
+  researchgate     : #"https://www.researchgate.net/profile/D-Fang"
   uri              :
   bitbucket        :
   codepen          :
